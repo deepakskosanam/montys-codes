@@ -7,9 +7,11 @@ text = "# This is not a comment because it's inside quotes."
 
 
 # Numbers
-2 + 2
-50 - 5*6
-(50- 5*6) / 4
+a = 2 + 2
+b = 50 - 5*6
+c = (50- 5*6) / 4
+
 8 / 5
 
 13//4
+print("Completed")
